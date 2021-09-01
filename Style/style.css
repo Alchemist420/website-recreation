@@ -61,6 +61,7 @@ border-radius: 50%;
 .design-par{
     font-size: 50px;
     font-weight: 900;
+    color: #f7d7c8;
 }
 
 .arrow{
@@ -119,5 +120,55 @@ border-radius: 50%;
 }
 
 .learn{
-    border: 20px;
+    border: 2px solid #f7d7c8;
+    padding: 15px 60px;
+    color: #f7d7c8;
+    margin: 60px;
+}
+
+.about-noni{
+    display: flex;
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.about-again
+.about-further{
+    width: 50%;
+}
+
+.signature{
+    width: 200px;
+    height: 150px;
+}
+
+.call-now{
+    display: flex;
+    align-items: center;
+    gap: 2%;
+    width: 20%;
+}
+
+.last-pic{
+    width: 250px;
+height: 250px;
+border-radius: 80%;
+}
+
+.line{
+    text-align: center;
+    width: 20%;
+    margin: 20px;
+    height: 12px;
+    background: #f7d7c8;
+}
+
+.last-text{
+    text-align: center;
+    width: 35%;
+}
+
+.need-color{
+    color: #f7d7c8;
 }
